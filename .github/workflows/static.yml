@@ -39,7 +39,7 @@ jobs:
       # You can test your matrix by printing the current Python version
       - name: Display Python version
         run: python -c "import sys; print(sys.version)"
-      - name: build site
+      - name: install dependencies
         run: |
           pip install mkdocs
           pip install mkdocs-bootstrap4
@@ -61,7 +61,7 @@ jobs:
         uses: actions/upload-pages-artifact@v2
         with:
           # Upload entire repository
-          path: './site/'
+          path: '/home/runner/work/dialplan-editor-docs/dialplan-editor-docs/site'
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2

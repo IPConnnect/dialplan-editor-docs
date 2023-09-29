@@ -2,7 +2,7 @@
 
 ## Video explicative
 
-
+![type:video](./videos/modification.mp4)
 
 ## Modifier un champ
 

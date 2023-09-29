@@ -16,3 +16,7 @@ Documentation complète de **Dialplan Editor** pour **Complete PBX**.
 4. [Ajout et suppression](ajout_suppression/)
     1. Ajout d'élément existant.
     2. Suppression d'élément.
+
+## Version PDF
+
+[Télécharger *Dialplan_Editor_Documentation.pdf*](./Dialplan_Editor_Documentation.pdf)

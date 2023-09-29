@@ -2,7 +2,7 @@
 
 ## Video d'explication
 
-![type:video](./videos/open.mp4)
+![type:video](./videos/ouverture.mp4)
 
 ## Selection des routes entrantes
 

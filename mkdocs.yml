@@ -1,4 +1,5 @@
 site_name: Dialplan Editor - Documentation
+repo_url: https://github.com/IPConnnect/dialplan-editor-docs/
 theme: bootstrap4
 nav:
   - Accueil: index.md

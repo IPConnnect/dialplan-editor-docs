@@ -1,0 +1,10 @@
+site_name: Dialplan Editor - Documentation
+theme: bootstrap4
+nav:
+  - Accueil: index.md
+  - Mise en route: mise_en_route.md
+  - Ouverture d'une configuration existante: ouverture_conf.md
+  - Ajout et suppression: ajout_suppression.md
+  - Modification: modification.md
+plugins:
+    - mkdocs-video

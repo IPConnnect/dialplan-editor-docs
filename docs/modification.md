@@ -4,14 +4,14 @@
 
 
 
-## Modifier un champs
+## Modifier un champ
 
 Il est possible de modifier les informations de chaque élément, 
 tel que la description d'une annonce ou les entrées d'une IVR.
 
 Pour cela, il faut :
 1. Placer le curseur sur l'élément souhaité
-2. Cliquer sur le bouton « modifier » apparaissant par dessus l'élément.
+2. Cliquer sur le bouton « modifier » apparaissant par-dessus l'élément.
 3. Modifier les champs dans la fenêtre de dialogue.
 4. Cliquer sur le bouton « Modifier ».
 

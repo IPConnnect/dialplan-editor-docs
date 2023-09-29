@@ -1,1 +1,0 @@
-Pour les videos, tronquer le début pour afficher le titre direct et enchainer sur le fondu dès le début.

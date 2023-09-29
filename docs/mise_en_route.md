@@ -2,7 +2,7 @@
 
 ## Video d'explication
 
-![type:video](./videos/starting.mp4)
+![type:video](./videos/demarrage.mp4)
 
 ## Démarrage
 
